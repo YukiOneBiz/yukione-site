@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YukiOne Consulting and Services</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <img src="https://res.cloudinary.com/duhygs5ck/image/upload/v1769928818/chat/generated-images/81827037-4902-485a-9b0d-7daab7b03b93___2b0871ba-32ec-4581-9595-e213565363a9.png" 
+           alt="YukiOne Logo" class="logo">
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="privacy.html">Privacy</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>YukiOne Consulting and Services</h1>
+    <p>Empowering businesses through strategic consulting and operational excellence.</p>
+    <a href="contact.html" class="btn">Contact Us</a>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>YukiOne Consulting and Services is a woman-owned business headquartered in San Antonio, Texas, with operations in Orlando, Florida. We are committed to providing expert business consulting and operations support tailored to your organization’s growth.</p>
+  </section>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <div class="service-cards">
+      <div class="card">
+        <h3>Business Consulting</h3>
+        <p>Partner with us to refine strategy, optimize processes, and strengthen leadership alignment to drive measurable success.</p>
+      </div>
+      <div class="card">
+        <h3>Operations Support</h3>
+        <p>Streamline workflows, implement effective systems, and ensure your operations perform at peak efficiency every day.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 YukiOne Consulting and Services | Woman-Owned Business | San Antonio, TX | Orlando, FL</p>
+  </footer>
+</body>
+</html
