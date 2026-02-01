@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | YukiOne Consulting</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <img src="https://res.cloudinary.com/duhygs5ck/image/upload/v1769928818/chat/generated-images/81827037-4902-485a-9b0d-7daab7b03b93___2b0871ba-32ec-4581-9595-e213565363a9.png" 
+           alt="YukiOne Logo" class="logo">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="privacy.html" class="active">Privacy</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="privacy">
+    <h1>Privacy Policy</h1>
+    <p>At YukiOne Consulting and Services, we value your privacy. We collect only the information necessary to provide our consulting services effectively. Your data will never be sold or shared with third parties without your consent, except as required by law.</p>
+    <p>For any questions about this policy, please contact: <a href="mailto:yukione.biz@gmail.com">yukione.biz@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2026 YukiOne Consulting and Services</p>
+  </footer>
+</body>
+</html>
